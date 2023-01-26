@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimpleTrampolineProject</string>
+    <string name="title_activity_notification_trampoline">NotificationTrampolineActivity</string>
+    <string name="title_activity_second_page">SecondPageActivity</string>
+</resources>
